@@ -1,5 +1,16 @@
-﻿__pycache__/
-.venv/
-.ipynb_checkpoints/
+﻿
+# Unity
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+Assets/AssetStoreTools*
+*.csproj
+*.sln
+# Python
+__pycache__/
 *.pyc
 .env
+.venv/
+.ipynb_checkpoints/
