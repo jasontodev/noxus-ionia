@@ -588,7 +588,7 @@ MonoBehaviour:
   campNoxus: {fileID: 1424831158}
   campIonia: {fileID: 213462699}
   agentPrefab: {fileID: 1673274288857372027, guid: baa3aba10c7cda3409cd72ff06193542, type: 3}
-  agentsPerTeam: 6
+  agentsPerTeam: 1
   noxusSpawns:
   - {fileID: 603092936}
   - {fileID: 1173953716}
